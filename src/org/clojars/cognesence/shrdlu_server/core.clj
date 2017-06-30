@@ -5,10 +5,7 @@
             [clojure.string :as str]
             [clojure.pprint :refer :all]
             [org.clojars.cognesence.matcher.core :refer :all]
-            [org.clojars.cognesence.ops-search.core :refer :all]
-            ;[org.clojars.cognesence.shrdlu-server.strips-search :refer :all]
-            ;[org.clojars.cognesence.shrdlu-server.wrappers :refer :all]
-            )
+            [org.clojars.cognesence.ops-search.core :refer :all])
   (:gen-class))
   
 ;this file contains high level glue & wrappers and their
