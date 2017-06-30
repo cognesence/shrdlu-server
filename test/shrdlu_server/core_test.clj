@@ -1,6 +1,6 @@
-(ns shrdlu.core-test
+(ns shrdlu-server.core-test
   (:require [clojure.test :refer :all]
-            [shrdlu.core :refer :all]))
+            [shrdlu-server.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

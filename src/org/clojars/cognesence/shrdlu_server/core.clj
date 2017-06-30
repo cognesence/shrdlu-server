@@ -1,4 +1,4 @@
-(ns shrdlu.core
+(ns shrdlu-server.core
   (:gen-class))
 
 (defn -main
