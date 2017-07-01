@@ -124,9 +124,9 @@
   (read (:inp socket)))
 
 (defn socket-input-waiting
+  ""
   [socket]
   (.ready (:inp socket)))
-
 
 ;___ netlogo reading/writing _____________
 
@@ -1219,4 +1219,4 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (startup 3333))
+  (println "Run (startup <port_num>) from the REPL instead please."))
