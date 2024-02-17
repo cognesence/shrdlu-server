@@ -45,22 +45,6 @@ A new red box will be created called `b2` will be created and placed on top of t
 Now the winch can't move `b1` right away because `b2` is sitting on top of it. Our operator search mechanism will figure
 this out and move `b2` first so we can proceed.
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
 Copyright © 2017 Simon Lynch
